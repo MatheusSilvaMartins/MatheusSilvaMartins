@@ -1,6 +1,6 @@
 
 
-# MatheusSilvaMarins
+# MatheusSilvaMartins
 <img src="http://github.com/MatheusSilvaMartins.png" alt="matheus"/> <br/>
 **Matheus Da Silva Martins** Olá mundo :hand: Gosto de programação e busco cada dia aprender/melhorar mais. Busco ser FullStack, mas tenho mais facilidade com Front-End.:computer: 
 <br/>Estou estudando ciencia da computação na Unip.
