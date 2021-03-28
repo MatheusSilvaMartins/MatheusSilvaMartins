@@ -5,7 +5,7 @@
 **Matheus Da Silva Martins** Olá mundo :hand: Gosto de programação e busco cada dia aprender/melhorar mais. Busco ser FullStack, mas tenho mais facilidade com Front-End.:computer: 
 <br/>Estou estudando ciencia da computação na Unip.
 
-Atualmente desempregado 
+Atualmente desempregado <br/>
 Estudando constantemente tecnologias Front-end, React, React-Native, e Back-End, Node.js
 
 Sobre mim: Curto tecnologias, games, leitura e cinema
