@@ -10,7 +10,7 @@ Estudando constantemente tecnologias Front-end, React, React-Native, e Back-End,
 
 Sobre mim: Curto tecnologias, games, leitura e cinema
 
-Entre em contato comigo: [![](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/matheus-martins-8a031015b/) [![Outlook Badge](https://img.shields.io/badge/matheus_smartins96@hotmail.com-blue)](mailto:matheus_smartins96@hotmail.com)
+Entre em contato comigo: [![](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/matheus-martins-8a031015b/) [![Outlook Badge](https://img.shields.io/badge/Outlook-blue)](mailto:matheus_smartins96@hotmail.com)
 
 <!---
 - 👋 Hi, I’m @MatheusSilvaMartins
